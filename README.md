@@ -19,5 +19,6 @@
 ## Finish your drink
 
 1. Red flag
-2. Latifi gets in the top 10
+2. Latifi gets in the top 10 at any point, during the race
 3. Hamilton DNF
+4. Alonso hand gesture
